@@ -54,7 +54,7 @@
 ## 🤝 Let’s Connect!
 
 - [LinkedIn](https://www.linkedin.com/in/amr-khaled-b413081aa/)
-- [Twitter](https://x.com/bornSleep33)
+- [Twitter](#)
 
 ---
 
