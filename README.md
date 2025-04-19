@@ -1,4 +1,7 @@
 <h1 align="center">Hey, I'm Amr Khaled (aka Bojack) 🐴</h1>
+<p align="center">
+  <img src="https://i.pinimg.com/originals/4c/d6/ea/4cd6eaa599851725aa5a195d162fb20d.gif" alt="Bojack riding gif" width="700" />
+</p>
 <p align="center">Machine Learning & Backend Engineer | AI Tinkerer | Code Whisperer | Building Scalable Solutions </p>
 
 <p align="center">
