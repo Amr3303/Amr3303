@@ -14,16 +14,6 @@
 
 ---
 
-## 🛠️ Featured Projects
-
-| Project                            | Description                                                | Tech Stack                                    |
-| ---------------------------------- | ---------------------------------------------------------- | --------------------------------------------- |
-| **MealFlow**                       | AI-powered meal planning app leveraging backend expertise. | Node.js, Kotlin, PostgreSQL, Machine Learning |
-| **Weather Recognition Classifier** | Web app classifying weather using EfficientNetB4.          | Flask, TensorFlow, PIL, Render                |
-
-📌 [More projects and contributions here](https://github.com/Amr3303?tab=repositories)
-
----
 
 ## 📦 Tech Stack
 
