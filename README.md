@@ -48,7 +48,3 @@
 
 - [LinkedIn](https://www.linkedin.com/in/amr-khaled-b413081aa/)
 - [Twitter](#)
-
----
-
-#bojackTheCooker #AISolutionsArchitect #BackendAlchemist
