@@ -36,14 +36,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amr3303&show_icons=true&theme=radical" alt="Amr's GitHub Stats" />
-</p>
-
----
-
 ## 🤝 Let’s Connect!
 
 - [LinkedIn](https://www.linkedin.com/in/amr-khaled-b413081aa/)
